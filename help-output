@@ -1,0 +1,13 @@
+clap-optional-args-help 
+
+USAGE:
+	clap-optional-args-help [FLAGS] [--] [ARGS]
+
+FLAGS:
+    -h, --help       Prints help information
+    -V, --version    Prints version information
+
+ARGS:
+    COMMAND    Command to run
+    ARG...     Arguments for COMMAND
+
